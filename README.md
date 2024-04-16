@@ -37,9 +37,9 @@
   ![Gitlab](https://img.shields.io/badge/-GitLab-333333?style=flat&logo=gitlab)
   
 - 🔧 &nbsp;
-  Pandas
-  DataFrame
-  Numpy
+  ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas)
+  ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy)
+  ![DataFrames](https://img.shields.io/badge/-DataFrames-008891?style=flat)
 
 <br/>
 
