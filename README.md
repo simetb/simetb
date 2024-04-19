@@ -45,7 +45,7 @@
 
 <a href="https://github.com/simetb">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simetb&theme=buefy&layout=compact" />
+  <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simetb&theme=buefy&layout=compact" />
 </a>
 
 <br/>
