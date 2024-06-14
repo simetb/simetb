@@ -14,7 +14,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![Java](https://img.shields.io/badge/Java-333333?style=flat&logo=java&logoColor=white)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
