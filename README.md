@@ -14,11 +14,10 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Solidity](https://img.shields.io/badge/-Solidity-333333?style=flat&logo=solidity)
   ![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
   ![Bash](https://img.shields.io/badge/-Bash-333333?style=flat&logo=bash)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby)
-  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
-  
 - 🌐 &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
